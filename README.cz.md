@@ -12,7 +12,7 @@ Soubory FLR, zejména ty exportované ve formátu JSON, obvykle obsahují mnoho 
 ## Kde?
 
 AWK je univerzální počítačový jazyk, navržený pro zpracovávání textových dat a obvykle se používá jako nástroj pro extrakci a vykazování dat. **Jedná se o standardní příkaz většiny UNIXových operačních systémů, jako například macOS či distribuce Linux.**
-> **Poznámka k Windows:** Ve výchozím nastavení není v systému Windows příkaz AWK k dispozici. Použijte prosím buď [*gawk*](http://gnuwin32.sourceforge.net/packages/gawk.htm) nebo snadněji spusťte příkaz z [*Linux Bash Shell*](https://docs.microsoft.com/cs-cz/windows/wsl/install-win10) *(tam jsem to osobně testoval).*
+> **Poznámka k Windows:** Ve výchozím nastavení není v systému Windows příkaz AWK k dispozici. Použijte prosím buď [*gawk*](http://gnuwin32.sourceforge.net/packages/gawk.htm) (budete muset trochu změnit syntaxi příkazu) nebo snadněji – ve Windows 10 (od sestavení č. 14328 či novější), spusťte příkaz přes [*Linux Bash Shell*](https://docs.microsoft.com/cs-cz/windows/wsl/install-win10) *(tam jsem to osobně testoval).*
 
 ## Použití
 
